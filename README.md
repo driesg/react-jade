@@ -1,5 +1,8 @@
 # react-jade
 
+**!! this fork only changes the dependency to React v15.3.1**
+
+
 Compile Jade to React JavaScript
 
 [![Build Status](https://img.shields.io/travis/jadejs/react-jade/master.svg)](https://travis-ci.org/jadejs/react-jade)
